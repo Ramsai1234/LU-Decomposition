@@ -29,7 +29,7 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition]()s
+![lu decomposition](./images/lu.png)
 
 
 ## Result:
